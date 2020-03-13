@@ -1,0 +1,24 @@
+{
+  "name": "JRES-AIS-Documentation",
+  "version": "1.0.0",
+  "description": "---\r home: true,\r actionText: Get Started →\r actionLink: /organization/\r features:\r - title: Lisandro A. Bitoy\r - title: Neil Cart Anchez\r - title: Jhon Ephraim Estrada\r footer: Copyright © 2018-present Lisandro Bitoy\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isanbitoy/JRES-AIS-Documentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isanbitoy/JRES-AIS-Documentation/issues"
+  },
+  "homepage": "https://github.com/isanbitoy/JRES-AIS-Documentation#readme",
+  "dependencies": {
+    "vuepress": "^0.12.0"
+  }
+}
