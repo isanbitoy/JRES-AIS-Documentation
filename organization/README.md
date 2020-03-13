@@ -1,0 +1,3 @@
+# The Organization
+
+Jose Rizal elementary school is one of the seven component schools in Sta. Ana district, Davao city. It is the daughter school of Sta. Ana elementary school. It is proud to note that it is able to produced talented and succesful graduates who excelled on their respective professions. The school is located along Damaso Suazo street on one side and Governor Sales street on the opposite side. It is surrounded by other public schools, namely: C.P. Garcia elementary school, Sta. Ana elementary school, M.A. Roxas elementary school, M.L. Quezon elementary and Sta. Ana national high school. The school has 25 faculty members and the year 2013 they have 950 enrolled students from kinder 1 to 6th grade.
