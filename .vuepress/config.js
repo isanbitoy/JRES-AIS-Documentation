@@ -20,7 +20,10 @@ module.exports = {
 			{
 				title: 'Data Flow Diagrams',
 				children: [
-					['/data_flow_diagram/DFD_diagrams', 'DFD Diagrams']
+					['/data_flow_diagram/context_diagram', 'Context Diagram'],
+					['/data_flow_diagram/diagram_0', 'Diagram 0'],
+					['/data_flow_diagram/lower_level_diagram', 'Lower-Level Diagram'],
+					['/data_flow_diagram/use_case_diagram', 'Use Case Diagram']
 				]
 			},
 			{
@@ -42,7 +45,13 @@ module.exports = {
 			},
 			{
 				title: 'UI Design',
-				path: '/ui_design/'
+				children: [
+					['/ui_design/mdi_form', 'MDI Form'],
+					['/ui_design/module_1', 'Module 1'],
+					['/ui_design/module_2', 'Module 2'],
+					['/ui_design/module_3', 'Module 3'],
+					['/ui_design/printed_outputs', 'Printed Outputs']
+				]
 			}
 		]
 	}
